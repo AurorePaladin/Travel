@@ -37,7 +37,8 @@ export default {
   },
   methods: {
     getCityInfo () {
-      axios.get('/api/city.json')
+      // axios.get('/api/city.json')
+      axios.get('https://raw.githubusercontent.com/AurorePaladin/VueNote-Travel/master/static/mock/city.json')
         .then(this.handleGetCityInfoSucc)
     },
     handleGetCityInfoSucc (res) {

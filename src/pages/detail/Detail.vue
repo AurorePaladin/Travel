@@ -34,7 +34,8 @@ export default {
   },
   methods: {
     getDetailInfo () {
-      axios.get('/api/detail.json', {
+      // axios.get('/api/detail.json', {
+      axios.get('https://raw.githubusercontent.com/AurorePaladin/VueNote-Travel/master/static/mock/detail.json', {
         params: {
           id: this.$route.params.id
         }
