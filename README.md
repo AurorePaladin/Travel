@@ -14,7 +14,7 @@
 - [x] 利用 axios 获取数据；
 
 ## 效果图
-
+![示例图](https://user-images.githubusercontent.com/29577784/40922948-2b8111fe-6846-11e8-9a03-f022dbaa0aca.gif)
 
 ## Build Setup
 
