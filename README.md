@@ -1,7 +1,7 @@
 # travel
 
 > A Vue.js project
-
+> 基于 Vue.js 2.5 所实现
 ## 功能介绍
 
 - [x] 实现了根据不同城市选择不同景点的功能；
