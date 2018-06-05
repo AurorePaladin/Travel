@@ -13,7 +13,8 @@
 - [x] 运用公用的画廊组件以及渐隐渐现的 header 组件；
 - [x] 利用 axios 获取数据；
 
-## 效果图
+## 效果图 
+[在线体验](http://www.wangyibei.cn/VueNote-Travel/#/)
 
 ![示例图](https://user-images.githubusercontent.com/29577784/40925101-79e090ae-684b-11e8-9f58-7a7517a4e447.gif)
 
